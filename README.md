@@ -1,2 +1,2 @@
 
-<img src="https://github.com/fboloori/StreamlitWebappForCategorizingTextsUsingML/blob/main/output2.jpg" width="300" />
+<img src="https://github.com/fboloori/StreamlitWebappForCategorizingTextsUsingML/blob/main/output2.jpg" width="700" />
